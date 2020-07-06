@@ -11,3 +11,6 @@ Secondly, an AutoAI experiment is conducted on the dataset, where the model is p
 
 Here is the link to the Nodered apps: 
 https://node-red-jufjq.eu-gb.mybluemix.net/ui/#!/1?socketid=Mvmhv0d8CgmR_dOIAAAJ
+
+Here is the link to the Youtube Video: 
+https://www.youtube.com/watch?v=4tiK_0z7EDQ&t=580s
