@@ -14,3 +14,6 @@ https://node-red-jufjq.eu-gb.mybluemix.net/ui/#!/1?socketid=Mvmhv0d8CgmR_dOIAAAJ
 
 Here is the link to the Youtube Video: 
 https://www.youtube.com/watch?v=4tiK_0z7EDQ&t=580s
+
+Here is the Feedback Video: 
+https://www.youtube.com/watch?v=rHacDImMb78
